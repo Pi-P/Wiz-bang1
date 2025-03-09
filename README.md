@@ -7,7 +7,7 @@
 
  Stuff consists of a limited but not just regular stuff.  Stuff may or may not contain matter and may or may not be visable and may or may not be 3 dimensional. 
 
-![](header.png)
+![](Wiz-bang1.jpg)
 
 ## Installation
 
