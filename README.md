@@ -1,11 +1,11 @@
 # Wiz-bang1
-> Short blurb about what your product does.
+> Wiz-bang1 is a revised version of bang-bang1.  It is designed to do specialized stuff that is huge and big and better than all others. For example; if one needed special stuff, wiz-bang1 would just do it better and more bigger and much more huge than others.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+ Stuff consists of a limited but not just regular stuff.  Stuff may or may not contain matter and may or may not be visable and may or may not be 3 dimensional. 
 
 ![](header.png)
 
@@ -25,7 +25,7 @@ edit autoexec.bat
 
 ## Usage example
 
-Wiz-bang1 is a revised version of bang-bang1.  It is designed to do specialized stuff that is huge and big and better than all others. For example; if one needed special stuff, wiz-bang1 would just do it better and more bigger and much more huge than others.  Stuff consists of a limited but not just regular stuff.  Stuff may or may not contain matter and may or may not be visable and may or may not be 3 dimensional.  Code blocks and potentially more screenshots.
+  Code blocks and potentially more screenshots.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
