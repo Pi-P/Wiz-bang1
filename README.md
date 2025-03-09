@@ -1,4 +1,4 @@
-# Product Name
+# Wiz-bang1
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
@@ -25,13 +25,14 @@ edit autoexec.bat
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Wiz-bang1 is a revised version of bang-bang1.  It is designed to do specialized stuff that is huge and big and better than all others. For example; if one needed special stuff, wiz-bang1 would just do it better and more bigger and much more huge than others.  Stuff consists of a limited but not just regular stuff.  Stuff may or may not contain matter and may or may not be visable and may or may not be 3 dimensional.  Code blocks and potentially more screenshots.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+Wiz-bang1 needs the following dependencies: 
+- Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
 make install
