@@ -32,7 +32,13 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 ## Development setup
 
 Wiz-bang1 needs the following dependencies: 
-- Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+- OS
+- Docker bang-bang1
+- KY
+- MicyV3
+- Festers V0.4
+- Sunny Skies
+- 36DD female things 
 
 ```sh
 make install
